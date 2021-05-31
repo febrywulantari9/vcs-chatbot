@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VCS App</string>
+    <string name="this_is_a_sample_message">This is a sample message</string>
+    <string name="type_a_message">Type a message</string>
+</resources>
